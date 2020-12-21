@@ -1,6 +1,6 @@
 const muteSrc = {
-    mute: '/assets/mute.svg',
-    unmute: '/assets/unmute.svg',
+    mute: '/mute.svg',
+    unmute: '/unmute.svg',
 };
 
 let interval
